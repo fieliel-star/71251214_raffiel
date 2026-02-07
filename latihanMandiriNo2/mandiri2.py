@@ -1,5 +1,3 @@
-import math
-
 berat_awal = 25
 harga_awal = 650000
 harga_naik = 685000
