@@ -18,8 +18,8 @@ persen_keuntungan2 = (keuntungan2 / total_modal) * 100
 
 print("Modal awal:" "Rp",modal_awal)
 print("Keuntungan awal:" "Rp",keuntungan)
-print("Persentase keuntungan awal:",  round (persen_keuntungan),"%")
+print("Persentase keuntungan awal:", round (persen_keuntungan),"%")
 
 print("Total modal:" "Rp",total_modal)
 print("Keuntungan sekarang:" "Rp",keuntungan2)
-print("Persentase keuntungan sekarang:",  round (persen_keuntungan2),"%")
+print("Persentase keuntungan sekarang:", round (persen_keuntungan2),"%")
